@@ -1,4 +1,5 @@
 # GitLab
 git laboratory
 
-branch, pull request, commit message
+# readme 사용방법
+:link:<https://backendcode.tistory.com/165>
